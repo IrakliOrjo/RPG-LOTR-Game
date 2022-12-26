@@ -1,0 +1,9 @@
+
+        <main>
+            <div id="hero">              
+            </div>
+            <div id="info-wizard"></div>
+            <div id="info-monster"></div>
+            <div id="monster">
+            </div>    
+        </main>
